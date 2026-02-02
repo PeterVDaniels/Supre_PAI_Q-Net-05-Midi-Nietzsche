@@ -1,3 +1,197 @@
+
+Absolutely — here’s a **clean, confident README.md “shake-up”** you can drop straight into **GitHub and GitLab**. It’s written to signal *upgrade*, *capability*, and *intent* without overselling, and it frames PeteAI as both a **creative instrument** and a **programmable system**.
+
+You can paste this as-is, or tweak names/sections.
+
+---Supre PAI-Q-Net-06-Midi-Nietzsche-rogue-lines(arbitrary computer digital art)-draw(arbitrary computerdigital art)
+
+````markdown
+# PeteAI — Rune Chant Engine, MIDI Drift Composer & Rune-Line Drawer
+
+**PeteAI** is an evolving creative AI system built in **Common Lisp**, designed for **non-rhythmic generative music**, **symbolic chant control**, and **arbitrary rune-line drawing**.  
+This release upgrades PeteAI into a **multi-modal creative engine** with deeper control over chant parameters, MIDI drift behavior, and layered rune-line composition.
+
+PeteAI is not a loop machine.  
+It does not quantize creativity.  
+It **drifts**.
+
+---
+
+## ✨ What’s New in This Upgrade
+
+### 🎶 Enhanced Chant → MIDI Engine
+- **Non-rhythmic MIDI composition** (no fixed grids)
+- Rune-driven melodic evolution
+- Adjustable parameters *during* the chant:
+  - BPM
+  - Duration
+  - Surprise / variation
+  - Echo layers
+  - Note packs (“vibes”)
+- Real-time tweak & re-chant workflow
+- Deterministic *or* fully stochastic runs
+
+### 🪄 Rune-Lines: Arbitrary Drawing Engine
+- Draw **freeform rune-lines** (not tied to time or rhythm)
+- Supports **layering** (multiple rune-line passes)
+- Rune-lines can be:
+  - purely visual
+  - symbolic
+  - mapped later to sound, motion, or logic
+- Designed for expansion into SVG, plotting, or gestural interfaces
+
+### 🎸 MIDI → ASCII Guitar Tab (Experimental)
+- Converts generated MIDI note-on events into readable ASCII guitar tab
+- Standard tuning: **EADGBE**
+- Uses intelligent string/fret selection
+- Designed for export into:
+  - TuxGuitar
+  - DAWs
+  - notation tools
+- Still evolving (this is a *creative sketch*, not strict notation)
+
+---
+
+## 🧠 Philosophy
+
+PeteAI is built around a simple idea:
+
+> **Creativity should breathe.**
+
+There is no fixed tempo grid.  
+No enforced bar lines.  
+No obligation to “sound right.”
+
+PeteAI embraces:
+- drift
+- irregularity
+- symbolic input
+- human-scale randomness
+
+This makes it suitable for:
+- ambient composition
+- experimental music
+- sound art
+- generative performance
+- creative coding research
+
+---
+
+## 🧩 Core Components
+
+- **Rune Chant Engine**
+  - Textual or symbolic seeds
+  - Iterative chant expansion
+- **MIDI Event Generator**
+  - Note-on / note-off with jitter, drift, velocity shaping
+- **Rune-Line Drawer**
+  - Arbitrary, layered line creation
+- **Exporters**
+  - MIDI (.mid)
+  - ASCII guitar tab (.txt)
+
+---
+
+## 🚀 Getting Started
+
+### Requirements
+- SBCL (recommended)
+- Common Lisp environment
+- MIDI playback software (optional but fun)
+- Linux preferred (tested on Fedora)
+
+### Load PeteAI
+```lisp
+(load "peteai-nietzsche-core.lisp")
+````
+
+### Run a Chant
+
+```lisp
+(cmd-chant)
+```
+
+Follow the interactive prompts to tweak parameters or re-chant.
+
+---
+
+## 🔧 Tweak Loop (Live Control)
+
+After each chant you can:
+
+1. Change BPM
+2. Adjust surprise / randomness
+3. Modify duration
+4. Enable/disable echo
+5. Switch vibe packs
+6. Re-chant same seed
+7. Start with a new seed
+8. Save or load presets
+
+This loop is intentional — PeteAI is meant to be *played*.
+
+---
+
+## 🧪 Experimental Features
+
+* Rune-to-tab conversion
+* Layered rune-line composition
+* Symbol-driven parameter modulation
+
+These are **active research areas** and will evolve.
+
+---
+
+## 📦 Project Status
+
+* Actively developed
+* Not a commercial product
+* Designed for exploration, hacking, and extension
+
+Expect rough edges.
+That’s part of the instrument.
+
+---
+
+## 🤝 Contributions
+
+Ideas, forks, experiments, and questions are welcome.
+
+PeteAI is not trying to be everything —
+it’s trying to be **alive**.
+
+---
+
+## 🧾 License
+
+Open source.
+Use it. Bend it. Break it.
+Just don’t lock it away.
+
+---
+
+## ✍️ Author
+
+**Pete (Peter V. Daniels)**
+PeteAI Project
+
+> “Strum the holes. Feel the drift.”
+
+```
+
+---
+
+If you want, next we can:
+- add **badges** (Lisp, MIDI, experimental)
+- split this into **GitHub vs GitLab variants**
+- add a **Quick Start GIF / ASCII demo**
+- write a **CONTRIBUTING.md**
+- or tighten it for a more academic / research tone
+
+Just say the direction.
+```
+
+
 # Supre_PAI_Q-Net-05-Midi-Nietzsche
 Advanced PAI Local  Network connect, Treaty testing, conversation through XDG 
 
@@ -134,8 +328,8 @@ Once running, you’ll see a prompt like:
 | `escort-on`  | Enable treaty guidance        |
 | `escort-off` | Disable treaty guidance       |
 | `quit`       | Exit                          |
-
----
+| -draw-       | digital creation              |
+| -rogue-lines- | digital creation              |
 
 ## Nietzsche Trial: How to Use It
 

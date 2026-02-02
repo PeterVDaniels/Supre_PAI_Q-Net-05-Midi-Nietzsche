@@ -1,4 +1,15 @@
 
+
+
+# PeteAI
+
+![PeteAI](https://img.shields.io/badge/PeteAI-Rune%20Chant%20%7C%20MIDI%20Drift%20%7C%20Rune--Lines-blueviolet?style=for-the-badge)
+
+*Generative chant, non-rhythmic MIDI, and layered rune-line composition.*
+
+
+
+
 Absolutely — here’s a **clean, confident README.md “shake-up”** you can drop straight into **GitHub and GitLab**. It’s written to signal *upgrade*, *capability*, and *intent* without overselling, and it frames PeteAI as both a **creative instrument** and a **programmable system**.
 
 You can paste this as-is, or tweak names/sections.
